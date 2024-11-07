@@ -6,7 +6,7 @@
 
 ## Class Diagram
 
-```flowchart
+```mermaid
 classDiagram
     class UserInfoController {
         +UserHelper userHelper
